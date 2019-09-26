@@ -13,6 +13,7 @@
 - Copy the files in the microSD folder to the root of microSD.
 - Set the microSD into the M5Stack / Odroid-GO
 - Select and launche the program with LovyanLauncher.
+- For the original Odroid-GO firmware, no launcher is needed. Switch on with the B button pressed, select the program and launch it. It is necessary to turn the switch on again after startup.
 
 ### Programs
 - in M5_Gamebin ... 4M minimal SPIFFS partition scheme
